@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Core/
+Disallow: /src/
+Disallow: /config.json
+Disallow: /piephp.sql
+Disallow: /routes.php

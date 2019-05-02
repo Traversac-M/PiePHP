@@ -1,0 +1,15 @@
+body {
+	background: url(/PiePHP/webroot/assets/showImg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.card {
+    margin-top: 10%;
+}
+
+[placeholder] {
+  opacity: .6;
+  color: #21d148;
+  font-weight: bold;
+}

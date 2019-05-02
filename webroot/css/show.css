@@ -1,0 +1,9 @@
+body {
+    background:url('/PiePHP/webroot/assets/showImg.jpg');
+}
+
+p {
+	color: red;
+	text-align: center;
+	border-style: ridge;
+}

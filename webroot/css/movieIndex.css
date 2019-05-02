@@ -1,0 +1,53 @@
+body {
+    background:url('/PiePHP/webroot/assets/movieImg.jpg');
+    background-attachment: fixed;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    background-color: #F8F8FF;   
+}
+
+.table {
+    border: solid darkslateblue;
+    margin-top: 1%;
+}
+
+.table a {
+    color: darkslateblue;
+    font-weight: bold;
+}
+
+.table a:hover {
+    color: #21d148;
+}
+
+.row {
+    background-color: #F8F8FF;
+    margin-top: 5em;
+}
+
+.error-template { 
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.error-actions {
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+.error-actions .btn { 
+    margin-right:10px; 
+}
+
+.movieTitle {
+    margin: 10px 0 20px 0;
+    color: slateblue;
+    text-shadow: 2px 2px red;
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
